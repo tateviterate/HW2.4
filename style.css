@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #DCDBDB;
+}
+.wrapper{
+	width: 50%;
+	margin: 0 auto;
+	background: #C4C4C4;
+}
+header{
+	height: 150px;
+	background: #059FAD;
+}
+h1{
+	color:#B3D9DB;
+}
+nav{
+	margin-top: 86px;
+	text-align: center;
+}
+nav a{
+	text-decoration: none;
+	background: #E6E0E0;
+	padding: 10px 15px;
+}
+section{
+	width: 60%;
+	margin:0 auto;
+	padding-bottom: 10px;
+}
+.first_table{
+	border: 1px solid #000;
+	border-collapse: separate ;
+}
+table{
+	width: 100%;
+	margin: 20px 0;
+	border-collapse: collapse;
+}
+td, th{
+	border: 1px solid #000;
+}
+.last_table{
+	margin:10px 0;
+}
+.last_table ul,
+.last_table ol {
+	padding: 20px 0 20px 40px;
+}
